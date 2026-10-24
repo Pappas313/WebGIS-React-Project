@@ -4,7 +4,8 @@
 
 Whether you're building a standalone mapping tool or a full-stack geospatial platform, this template gets you up and running quickly. It integrates seamlessly with the [WebGIS-Django backend](https://github.com/GeoBradDev/WebGIS-Django) for projects that need a PostGIS-powered API, but it can also be used independently with any REST or GeoJSON data source.
 <img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/baad664f-e325-4975-9bfd-d00275918c1a" />
-
+<img width="1909" height="915" alt="image" src="https://github.com/user-attachments/assets/a58ad3d6-4887-42fe-9432-83e22e5a7e2c" />
+<img width="1912" height="919" alt="image" src="https://github.com/user-attachments/assets/279d55fe-e1de-44b4-afb7-dd25f59b8467" />
 
 ---
 
