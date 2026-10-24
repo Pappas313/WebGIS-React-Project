@@ -3,6 +3,8 @@
 **WebGIS-React** is a modern, production-ready frontend template for building **interactive web mapping (WebGIS)** applications. It combines **React**, **React Leaflet**, and **Material UI** to deliver a fast, responsive, and extensible mapping interface out of the box — complete with location search, a collapsible sidebar, and a clean component architecture that's easy to customize.
 
 Whether you're building a standalone mapping tool or a full-stack geospatial platform, this template gets you up and running quickly. It integrates seamlessly with the [WebGIS-Django backend](https://github.com/GeoBradDev/WebGIS-Django) for projects that need a PostGIS-powered API, but it can also be used independently with any REST or GeoJSON data source.
+<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/baad664f-e325-4975-9bfd-d00275918c1a" />
+
 
 ---
 
